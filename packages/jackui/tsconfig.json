@@ -1,0 +1,5 @@
+{
+    "extends":["../jackui/tsconfig.json"],
+    "compilerOptions": {},
+    "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"]
+}
